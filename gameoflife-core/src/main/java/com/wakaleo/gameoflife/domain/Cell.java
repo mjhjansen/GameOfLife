@@ -6,7 +6,7 @@ public enum Cell {
     private String symbol;
 
     private Cell(final String initialSymbol) {
-        this.symbol = initialSymbol; // bla
+        this.symbol = initialSymbol;
     }
 
     @Override
